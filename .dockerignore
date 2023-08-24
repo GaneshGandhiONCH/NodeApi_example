@@ -1,0 +1,26 @@
+# OS noise
+.DS_Store
+._*
+*~
+
+# Other CSM
+.hg
+.svn
+CVS
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# npm
+node_modules/
+
+# App data
+/data/
